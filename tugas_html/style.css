@@ -1,0 +1,45 @@
+.menu {
+  list-style: none;
+  padding: 10px ;
+  text-align: center;
+}
+
+.menu-item {
+  display: inline;
+  padding: 5px;
+  margin: 5px;
+}
+
+.header{
+  height: 100px;
+  margin: 20px;
+  padding: 10px;
+  background-color: pink;
+}
+
+.footer{
+  margin: 20px;
+  padding: 10px;
+  background-color: pink;
+}
+
+.sidebar {
+  width:auto;
+  background-color: #f1f1f1;
+}
+div.content {
+  margin-left: 30px;
+  padding: 16px;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}

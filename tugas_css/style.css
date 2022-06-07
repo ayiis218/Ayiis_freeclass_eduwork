@@ -1,0 +1,12 @@
+.menu {
+  list-style: none;
+  text-align: center;
+  margin: 5px;
+  padding: 2px;
+}
+
+.menu-item {
+  display: inline;
+  padding: 1px;
+  margin: 5px;
+}
